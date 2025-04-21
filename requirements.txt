@@ -1,5 +1,5 @@
 crewai
-langchian
+langchain
 langchain-google-genai
 langchain-community
 crewai_tools
